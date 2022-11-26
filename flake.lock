@@ -212,11 +212,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1668776027,
-        "narHash": "sha256-kDAAd1q9QaCjDBOSP0HjLPYWuQhE6u8cEGZkmK/AQLE=",
+        "lastModified": 1669431285,
+        "narHash": "sha256-HBopiss7jzVUX/li0VTipgjh6S2pKFrmQyAyNf6gOuk=",
         "owner": "nim-nix-pkgs",
         "repo": "onnxruntime",
-        "rev": "a82863f40c3e74b7b3707bb571ec6243afdc752b",
+        "rev": "825c7ef0a15e1dd86c802ce12ada903bec2a1806",
         "type": "github"
       },
       "original": {
